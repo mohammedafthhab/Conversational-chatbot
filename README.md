@@ -110,6 +110,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-Your Name - [junaidkaliyadan@gmail.com](mailto:mohammedafthhab@gmail.com)
+Your Name - [mohammedafthhab@gmail.com](mailto:mohammedafthhab@gmail.com)
 
 Project Link: [https://github.com/mohammedafthhab/Conversational-chatbot.git](https://github.com/mohammedafthhab/Conversational-chatbot.git)
