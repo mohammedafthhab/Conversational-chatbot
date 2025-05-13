@@ -26,7 +26,7 @@ AI Chat Assistant Screenshot
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/j22k/chatbot.git
+   git clone https://github.com/mohammedafthhab/Conversational-chatbot.git
    cd ai-chat-assistant
    ```
 
