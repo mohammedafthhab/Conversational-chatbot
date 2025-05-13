@@ -96,9 +96,7 @@ To add new bot capabilities:
 2. Add your logic to the `generate_response()` function
 3. Update the UI if needed in `templates/index.html`
 
-## License
 
-[MIT License](LICENSE)
 
 ## Contributing
 
@@ -112,6 +110,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-Your Name - [junaidkaliyadan@gmail.com](mailto:junaidkaliyadan@gmail.com)
+Your Name - [junaidkaliyadan@gmail.com](mailto:mohammedafthhab@gmail.com)
 
-Project Link: [https://github.com/j22k/chatbot.git](https://github.com/j22k/chatbot.git)
+Project Link: [https://github.com/mohammedafthhab/Conversational-chatbot.git](https://github.com/mohammedafthhab/Conversational-chatbot.git)
